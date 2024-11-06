@@ -1,0 +1,6 @@
+from FUNCTIONS import types_of_Function_definition as t
+res=t.login_credentials1(1122334455,"deekshitha@123")
+print(res)
+t.login_credentials2(112233,"deekshitha@123")
+t.system_info()
+t.system_info1()
