@@ -2,7 +2,7 @@
 def login_credentials(uid,pwd):
 
     ruid=11445566
-    rpwd="alladi@123"
+    rpwd="deekshitha@123"
     if(uid==ruid and pwd==rpwd):
         return "login successful"
     else:
@@ -11,7 +11,7 @@ def login_credentials(uid,pwd):
 def login_credentials2(uid,pwd):
 
     ruid=11445566
-    rpwd="alladi@123"
+    rpwd="deekshitha@123"
     if(uid==ruid and pwd==rpwd):
         print("login successful")
     else:
